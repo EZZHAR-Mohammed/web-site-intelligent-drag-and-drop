@@ -1,0 +1,4 @@
+{
+  "name": "AutoPage Builder",
+  "description": "An intelligent page builder that analyzes API data structure to automatically suggest and render appropriate UI components (Charts, Tables, Cards). Features role-based access and export capabilities."
+}
